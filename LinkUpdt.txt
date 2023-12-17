@@ -1,5 +1,5 @@
 {
   "link": "https://raw.githubusercontent.com/Sonha75/OTA/Blink411.bin",  
   "Mandatory": false,
-  //sau update chi can thay doi link dan den file bin
+  
   }
