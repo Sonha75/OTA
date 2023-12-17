@@ -1,5 +1,5 @@
 {
-  "link": "https://raw.githubusercontent.com/Sonha75/OTA/blink1.bin",  
+  "link": "https://raw.githubusercontent.com/Sonha75/OTA/blink_1.bin",  
   "Mandatory": false,
   
   }
